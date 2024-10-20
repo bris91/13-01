@@ -12,11 +12,11 @@
 Какие сетевые службы в ней разрешены?
 Какие уязвимости были вами обнаружены? (список со ссылками: достаточно трёх уязвимостей)
 
-Обнаружены уязвимости:
+`Обнаружены уязвимости:
 vsftpd 2.3.4 https://www.exploit-db.com/exploits/17491
 ProFTPD 1.3.1 https://www.exploit-db.com/exploits/32798
 PostgreSQL DB 8.3.0 - 8.3.7 https://www.exploit-db.com/exploits/32849
-                            https://www.exploit-db.com/exploits/32847
+                            https://www.exploit-db.com/exploits/32847`
 
 ![alt text](https://github.com/bris91/13-01/blob/96057df76bfbc765cd5a37c952929a3976ddffe7/1.1.png)
 ![alt text](https://github.com/bris91/13-01/blob/96057df76bfbc765cd5a37c952929a3976ddffe7/1.2.png)

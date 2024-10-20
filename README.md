@@ -12,11 +12,11 @@
 Какие сетевые службы в ней разрешены?
 Какие уязвимости были вами обнаружены? (список со ссылками: достаточно трёх уязвимостей)
 
-`Обнаружены уязвимости:
+Обнаружены уязвимости:
 vsftpd 2.3.4 https://www.exploit-db.com/exploits/17491
 ProFTPD 1.3.1 https://www.exploit-db.com/exploits/32798
 PostgreSQL DB 8.3.0 - 8.3.7 https://www.exploit-db.com/exploits/32849
-                            https://www.exploit-db.com/exploits/32847`
+                            https://www.exploit-db.com/exploits/32847
 
 ![alt text](https://github.com/bris91/13-01/blob/96057df76bfbc765cd5a37c952929a3976ddffe7/1.1.png)
 ![alt text](https://github.com/bris91/13-01/blob/96057df76bfbc765cd5a37c952929a3976ddffe7/1.2.png)
@@ -28,10 +28,6 @@ PostgreSQL DB 8.3.0 - 8.3.7 https://www.exploit-db.com/exploits/32849
 # Задание 2
 Проведите сканирование Metasploitable в режимах SYN, FIN, Xmas, UDP.
 Запишите сеансы сканирования в Wireshark.
-Ответьте на следующие вопросы:
-Чем отличаются эти режимы сканирования с точки зрения сетевого трафика?
-Как отвечает сервер?
-Приведите ответ в свободной форме.
 
 ![alt text](https://github.com/bris91/13-01/blob/96057df76bfbc765cd5a37c952929a3976ddffe7/2.1.png)
 ![alt text](https://github.com/bris91/13-01/blob/96057df76bfbc765cd5a37c952929a3976ddffe7/2.2.png)
